@@ -2,4 +2,4 @@
 
 Repo Where I Practice Different Coding Challenges
 
-* [ ] Jan 14 2020 Julia?
+* [X] Jan 14 2020 Julia?
